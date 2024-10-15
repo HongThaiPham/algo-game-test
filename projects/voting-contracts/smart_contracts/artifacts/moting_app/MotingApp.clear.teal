@@ -1,0 +1,5 @@
+#pragma version 10
+
+smart_contracts.moting_app.contract.MotingApp.clear_state_program:
+    int 1
+    return
